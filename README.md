@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLsoares&layout=compact&langs_count=7"/>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vitorLsoares&bg_color=FFFFFF&color=004f92&line=004f92&point=004f92&area=true&hide_border=true)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vitorLsoares&bg_color=FFFFFF&color=004f92&line=004f92&point=004f92&area=true&hide_border=true)-->
 
 
 ##
