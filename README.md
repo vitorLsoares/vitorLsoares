@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Analista desenvolvedor Junior no MeLi</h3>
 
 
-- 🌱 I’m currently learning **JavaSpringBoot**
+- 🌱 I’m currently learning **React**
 
 - 🔭 I’m currently working on **Mercado Livre**
 
