@@ -1,57 +1,77 @@
-<!--
-**vitorLsoares/vitorLsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vitor%20Soares&fontAlign=50&fontAlignY=35&color=0:0B1026,30:1E1B4B,60:312E81,100:0EA5E9&fontColor=E5E7EB&desc=Developing%20in%20the%20AI%20era%20-%20renewing%20myself%20for%207%2B%20years&descAlign=50&descAlignY=55" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Senior Software Engineer at Mercado Livre<br/>
+  React + Fullstack JavaScript/TypeScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-lsoares/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vitor%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vitor.limsoares@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vitor.limsoares%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<h1 align="center">Oi 👋, Sou o Vitor</h1>
-<h3 align="center">Analista desenvolvedor Junior no MeLi</h3>
+---
 
+## About Me
 
-- 🌱 I’m currently learning **React**
+I am a Senior Software Engineer focused on building solid, scalable, and elegant products.
+I work mainly with React, Next.js, Express, JavaScript, and TypeScript, always combining engineering fundamentals with modern AI workflows.
 
-- 🔭 I’m currently working on **Mercado Livre**
+I enjoy building all kinds of projects and continuously improving as a developer in the AI era.
 
-<!-- - 💬 Ask me about **BackEnd with SpringBoot** -->
-### 🛠 &nbsp;Tech Stack
+## Core Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
- <!--<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorLsoares&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorLsoares&theme=radical" alt="vitorLsoares" /></p> Teste Para outro dia-->
+## Tools I Use
 
- <br />
+<p>
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
- <div>
-  <a href="https://github.com/vitorLsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorLsoares&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLsoares&layout=compact&langs_count=7"/>
-</div>
+## GitHub Visuals
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vitorLsoares&bg_color=FFFFFF&color=004f92&line=004f92&point=004f92&area=true&hide_border=true)-->
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-##
+## Featured Projects
 
-<div> 
-  <h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/vitor-lsoares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vitorl.soares@mercadolivre.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<!-- Keep this section as a flexible template until you decide your highlights -->
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| Project Name 01 | Short impact-focused description | React, TypeScript, Next.js | [Repository](#) |
+| Project Name 02 | Short impact-focused description | Node.js, Express, Docker | [Repository](#) |
+| Project Name 03 | Short impact-focused description | JavaScript, Supabase, Vercel | [Repository](#) |
+
+## Current Focus
+
+- Becoming a top-tier AI-augmented software developer
+- Building reliable and high-quality fullstack products
+- Improving architecture and product execution skills
+
+## Contact
+
+- LinkedIn: [vitor-lsoares](https://www.linkedin.com/in/vitor-lsoares/)
+- Email: [vitor.limsoares@gmail.com](mailto:vitor.limsoares@gmail.com)
+
+---
+
+If you want, I can also generate a second variant of this README with a more bold style while keeping the same clean premium structure.
