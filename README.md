@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-lsoares/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vitor%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vitor.limsoares@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vitor.limsoares%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vitor.limsoares@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vitrolasoares%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -44,12 +44,12 @@ I enjoy building all kinds of projects and continuously improving as a developer
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorLsoares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLsoares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=vitorLsoares&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ## Featured Projects
@@ -70,7 +70,7 @@ I enjoy building all kinds of projects and continuously improving as a developer
 ## Contact
 
 - LinkedIn: [vitor-lsoares](https://www.linkedin.com/in/vitor-lsoares/)
-- Email: [vitor.limsoares@gmail.com](mailto:vitor.limsoares@gmail.com)
+- Email: [vitor.limsoares@gmail.com](mailto:vitolasoares@gmail.com)
 
 ---
 
