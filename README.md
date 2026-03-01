@@ -44,8 +44,8 @@ I enjoy building all kinds of projects and continuously improving as a developer
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorLsoares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLsoares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorLsoares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorLsoares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I enjoy building all kinds of projects and continuously improving as a developer
 ## Contact
 
 - LinkedIn: [vitor-lsoares](https://www.linkedin.com/in/vitor-lsoares/)
-- Email: [vitor.limsoares@gmail.com](mailto:vitolasoares@gmail.com)
+- Email: [vitrolasoares@gmail.com](mailto:vitolasoares@gmail.com)
 
 ---
 
